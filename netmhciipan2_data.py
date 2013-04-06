@@ -76,4 +76,4 @@ f = open(os.path.join(epitope_test_download_dir, output_file_name), 'w')
 f.writelines(data.content)
 f.close()
 print
-print colored('Download complete.', 'cyan')'
+print colored('Download complete.', 'cyan')
